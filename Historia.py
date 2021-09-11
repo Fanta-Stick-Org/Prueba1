@@ -1,1 +1,7 @@
 print('Noruega', 'Rojo', 'Oso', 'Rapaz', 'Pescado', 'Invierno', 'Ragnarok', 'Cazar', 'Río', 'Hambriento')
+
+print("Érase en un lugar cuyo nombre no me quiero acordar, vivía en Noruega un oso rapaz y hambriento, que" + 
+        "vagaba en lo profundo de un bosque buscando algo que comer, a lo lejos vio un río rojo de sangre en el" + 
+        "que saltaban pescados con alas que se comían unos a otros; los observaba mientras el gélido viento del " + 
+        "invierno azotaba su pelaje, ya que sabía que necesitaba cazar toda la comida que pudiera obtener antes que " +
+        "el ragnarok  comenzará, porque después de eso no quedaría nada sobre la tierra… ni siquiera el.")
